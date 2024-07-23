@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of Curb Your Enthusiasm.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who is Larry?",
+      "answers": ["Creator", "Actor", "Writer"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Who is Jeff?",
+      "answers": ["Agent", "Friend", "Neighbor"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is Latte Larry's?",
+      "answers": ["Cafe", "Bar", "Store"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Who is Cheryl?",
+      "answers": ["Wife", "Sister", "Cousin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Susie?",
+      "answers": ["Jeff's", "Larry's", "Cheryl's"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Leon?",
+      "answers": ["Roomie", "Agent", "Friend"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is HBO?",
+      "answers": ["Network", "Channel", "Show"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is spite store?",
+      "answers": ["Rival", "Cafe", "Bar"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Richard?",
+      "answers": ["Friend", "Agent", "Cousin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Marty?",
+      "answers": ["Friend", "Brother", "Neighbor"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Seinfeld?",
+      "answers": ["Show", "Actor", "Writer"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Ted?",
+      "answers": ["Friend", "Agent", "Neighbor"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Funkhouser?",
+      "answers": ["Friend", "Agent", "Writer"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Vince?",
+      "answers": ["Neighbor", "Agent", "Friend"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is big penis sketch?",
+      "answers": ["Scene", "Show", "Joke"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Larry's sandwich?",
+      "answers": ["Order", "Menu", "Dish"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Who is Jerry?",
+      "answers": ["Friend", "Actor", "Writer"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is fake heart attack?",
+      "answers": ["Prank", "Act", "Scene"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Who is Loretta?",
+      "answers": ["Ex-girl", "Neighbor", "Agent"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Larry's bald cap?",
+      "answers": ["Prop", "Hat", "Wig"],
       "correctAnswerIndex": 0
     }
   ]
